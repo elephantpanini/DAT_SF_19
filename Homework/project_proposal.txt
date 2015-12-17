@@ -1,0 +1,5 @@
+# I'm planning to predict which districts within U.S. swing states will be redistricted before the next election.
+# I data from the U.S. Census Bureau for the 110th and 111th Congressional Districts. In particular, I'll review North Carolina, Florida, Ohio, Virginia, and Colorado.
+# I will be reviewing the data after I can (s)FTP it to my local directory.
+# The datasets I will use are here: http://www2.census.gov/census_2000/datasets/110_Congressional_Districts/110_CD_HundredPercent/
+# I chose this topic because I enjoy politics and love the hype leading up to Presidential elections.
